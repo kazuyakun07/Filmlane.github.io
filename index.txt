@@ -1,4 +1,4 @@
-movie clan - Best movie collections
+Filmlane - Best movie collections
 
 
 
@@ -29,7 +29,7 @@ Tv Show
 Web Series
 Pricing
 
-<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-telegram"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-pinterest"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
@@ -39,7 +39,7 @@ Pricing
 
 # HERO
 
-movie clan
+Filmlane
 Unlimited Movie, TVs Shows, & More.
 
 PG 18
